@@ -1,7 +1,7 @@
 # 💻 Edwin Odhiambo
 
 📧 **odhiamboedu123@gmail.com** | 📞 **+254 716 220048**  
-🌍 [github.com/edwin254-byte](https://github.com/edwin254-byte) | 💼 [LinkedIn](#)
+🌍 [github.com/edwin254-byte](https://github.com/edwin254-byte) | 💼 [LinkedIn](https://www.linkedin.com/in/edwin-odhiambo/)
 
 ---
 
@@ -29,7 +29,7 @@ Passionate about building **robust, maintainable, and elegant systems** that ble
 ## 💼 Professional Experience
 
 ### **Project Lead & Full-Stack Engineer — Rent Hub Ltd**
-*Jan 2024 – Present | Nairobi / Remote*
+*Jan 2024 – Aug 2025 | Eldoret
 
 - Led end-to-end development of a property management SaaS platform with 1,000+ active users.  
 - Architected and implemented integrations for authentication, notifications, and payments.  
