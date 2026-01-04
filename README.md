@@ -7,7 +7,7 @@
 
 ## 🚀 Full-Stack Developer | Node.js | React | TypeScript | DevOps
 
-Full-Stack Developer with 3+ years of professional experience designing, developing, and deploying **scalable SaaS and fintech platforms**.  
+Full-Stack Developer with 5+ years of professional experience designing, developing, and deploying **scalable SaaS and fintech platforms**.  
 Skilled in **React.js**, **Next.js**, **Node.js**, **TypeScript**, and **PostgreSQL**, with proven expertise in architecture, API design, and real-time integrations.  
 Passionate about building **robust, maintainable, and elegant systems** that blend great engineering with intuitive user experience.
 
