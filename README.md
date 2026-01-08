@@ -15,7 +15,7 @@ Passionate about building **robust, maintainable, and elegant systems** that ble
 
 ## 🧠 Core Technical Skills
 
-**Frontend:** React.js, Next.js, React Native (Expo), TypeScript, Tailwind, Shadcn UI  
+**Frontend:** React.js, Angular, Next.js, React Native (Expo), Flutter (Dart), TypeScript, Tailwind, Shadcn UI  
 **Backend:** Node.js, Express, NestJS, Prisma, REST APIs, GraphQL (familiar)  
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **DevOps:** Docker, GitHub Actions CI/CD, Nginx, DigitalOcean, AWS (basic)  
@@ -29,7 +29,7 @@ Passionate about building **robust, maintainable, and elegant systems** that ble
 ## 💼 Professional Experience
 
 ### **Project Lead & Full-Stack Engineer — Rent Hub Ltd**
-*Jan 2024 – Aug 2025 | Eldoret
+*Jan 2024 – Sep 2025 | Eldoret
 
 - Led end-to-end development of a property management SaaS platform with 1,000+ active users.  
 - Architected and implemented integrations for authentication, notifications, and payments.  
