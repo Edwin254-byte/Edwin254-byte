@@ -1,110 +1,112 @@
 # 💻 Edwin Odhiambo
 
-📧 **odhiamboedu123@gmail.com** | 📞 **+254 716 220048**  
-🌍 [github.com/edwin254-byte](https://github.com/edwin254-byte) | 💼 [LinkedIn](https://www.linkedin.com/in/edwin-odhiambo/)
+📧 **[odhiamboedu123@gmail.com](mailto:odhiamboedu123@gmail.com)** | 📞 **+254 716 220048**
+🌍 https://github.com/edwin254-byte | 💼 https://www.linkedin.com/in/edwin-odhiambo/
 
 ---
 
-## 🚀 Full-Stack Developer | Node.js | React | TypeScript | DevOps
+## 🚀 Software Engineer | TypeScript | Node.js | Distributed Systems
 
-Full-Stack Developer with 5+ years of professional experience designing, developing, and deploying **scalable SaaS and fintech platforms**.  
-Skilled in **React.js**, **Next.js**, **Node.js**, **TypeScript**, and **PostgreSQL**, with proven expertise in architecture, API design, and real-time integrations.  
-Passionate about building **robust, maintainable, and elegant systems** that blend great engineering with intuitive user experience.
+Software Engineer with 5+ years of experience building production-grade software across fintech, logistics, SaaS, and AI-enabled platforms. I specialize in designing scalable backend systems using TypeScript and Node.js, while remaining comfortable across the entire stack.
 
----
+Over the years, I've worked on property management platforms, payment systems, AI-first SaaS products, and logistics software supporting order fulfillment workflows. I enjoy solving complex engineering problems involving APIs, distributed systems, authentication, real-time communication, and cloud infrastructure.
 
-## 🧠 Core Technical Skills
-
-**Frontend:** React.js, Angular, Next.js, React Native (Expo), Flutter (Dart), TypeScript, Tailwind, Shadcn UI  
-**Backend:** Node.js, Express, NestJS, Prisma, REST APIs, GraphQL (familiar)  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**DevOps:** Docker, GitHub Actions CI/CD, Nginx, DigitalOcean, AWS (basic)  
-**Testing & QA:** Jest, React Testing Library, Postman, Cypress  
-**Auth & Security:** OAuth2, JWT, RBAC, CORS, rate-limiting  
-**Architecture:** Microservices, MVC, Repository Pattern, Event-Driven Design  
-**Soft Skills:** Problem-solving, Communication, Mentorship, Agile Delivery  
+Currently focused on backend engineering, system design, and leveraging AI-assisted development tools to build reliable, maintainable, and high-impact products.
 
 ---
 
-## 💼 Professional Experience
+## 🧠 Technical Skills
 
-### **Project Lead & Full-Stack Engineer — Rent Hub Ltd**
-*Jan 2024 – Sep 2025 | Eldoret
-
-- Led end-to-end development of a property management SaaS platform with 1,000+ active users.  
-- Architected and implemented integrations for authentication, notifications, and payments.  
-- Built modern, responsive UIs in **React + TypeScript**, and APIs with **Node.js** + **Prisma (PostgreSQL)**.  
-- Deployed **Dockerized services** and automated pipelines with GitHub Actions.  
-- Mentored junior engineers and enforced best practices through code reviews and documentation.  
-
----
-
-### **Software Engineer — Rent Hub Ltd**
-*Jan 2023 – Dec 2023*
-
-- Delivered **Next.js SSR dashboards**, real-time notifications, and secure file uploads.  
-- Integrated REST APIs for analytics, authentication, and payment workflows.  
-- Boosted frontend performance by 25% through optimization and caching strategies.  
-- Collaborated in agile sprints and improved UI consistency from user feedback.
+* **Languages:** TypeScript, JavaScript, C#, Ruby, Dart, SQL
+* **Frontend:** React, Next.js, Angular, React Native (Expo), Flutter
+* **Backend:** Node.js, Express, NestJS, .NET, Ruby on Rails (familiar)
+* **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+* **Cloud & DevOps:** Docker, GitHub Actions, AWS, DigitalOcean, Nginx
+* **Architecture:** Microservices, Event-Driven Systems, REST APIs, OAuth2, RBAC
+* **Tools:** Prisma ORM, Socket.IO, Firebase, Postman, Jest, Grafana, Vault
+* **Practices:** CI/CD, Agile, System Design, Observability, Production Support
 
 ---
 
-### **Software Engineer Intern — Rent Hub Ltd**
-*May 2022 – Dec 2022*
+## 💼 Experience
 
-- Developed core frontend components in React and tested backend endpoints.  
-- Supported CI/CD setup, Docker deployment, and bug resolution across services.  
-- Learned agile delivery, Git-based collaboration, and production debugging.
+### Senior Software Engineer — Senga Technologies LTD
+
+**Mar 2026 – Present**
+
+* Building software solutions for logistics and order fulfillment workflows.
+* Developing backend services and APIs supporting purchase orders through delivery.
+* Working across Ruby backend services and React-based frontend applications.
+* Implementing CI/CD pipelines using GitHub Actions, Docker, and AWS.
+* Improving reliability, scalability, and deployment processes across engineering teams.
+
+### Software Engineer — Cognativ Kenya
+
+**Nov 2025 – Feb 2026**
+
+* Developed AI-enabled SaaS applications using .NET and Angular.
+* Built scalable APIs and integrations for enterprise workflows.
+* Participated in architecture reviews, deployment automation, and code reviews.
+* Collaborated closely with product and engineering teams to deliver production-ready features.
+
+### Software Engineer — Rent Hub LTD
+
+**Apr 2022 – Sep 2025**
+
+* Led the engineering efforts behind a property management and fintech platform.
+* Designed and implemented backend services using Node.js and TypeScript.
+* Built integrations for M-Pesa, Visa, Mastercard, and banking systems.
+* Developed OAuth2-based authentication and Single Sign-On services.
+* Implemented real-time capabilities using Socket.IO and Firebase.
+* Managed PostgreSQL and MongoDB workloads for performance and reliability.
+* Mentored junior engineers and contributed to engineering standards and best practices.
+
+---
+
+## 🚀 Production Projects
+
+### Rent Hub
+
+Property management platform serving landlords, tenants, and property managers.
+
+* Web: https://renthub.kberen.com
+* Android: https://play.google.com/store/apps/details?id=com.kberen.renthub
+* iOS: https://apps.apple.com/us/app/rent-hub/id6742020122
+
+### Rent Hub Wallet
+
+* https://wallet.kberen.com
+
+Payment and virtual wallet infrastructure supporting financial transactions and reconciliations.
+
+### Rent Hub OAuth
+
+* https://oauth.kberen.com
+
+Centralized authentication and authorization service implementing OAuth2 and SSO.
 
 ---
 
 ## 🎓 Education
 
-**BSc. Computer Science — Moi University**  
-*2020 – 2024 | First Class Honours*  
-- Focus: Algorithms, Software Design, and Distributed Systems.  
-- Capstone: *Scalable SaaS Architecture for Multi-Tenant Property Management* (Top Project 2024).  
+### Moi University
+
+**Bachelor of Science in Computer Science**
+**First Class Honours (2024)**
 
 ---
 
-## 🧩 Projects
+## 🏆 Highlights
 
-### **Rent Hub SaaS Platform**
-Full-stack property management platform  
-**Tech:** React, Node.js, Prisma, PostgreSQL, Docker, Socket.IO  
-- Multi-tenant architecture, digital lease generation, payment reconciliation, real-time alerts.
-
-### **Expo Mobile Companion App**
-Cross-platform app for property management  
-**Tech:** React Native (Expo), AsyncStorage, Socket.IO, FCM  
-- Offline-first data sync, push notifications, and secure authentication.
-
-### **Developer Tooling Automation**
-CI/CD dependency and type-check validation utility  
-**Tech:** Node.js, Bash, GitHub Actions  
-- Automated dependency validation and build integrity across multiple microservices.
-
----
-
-## 🏆 Achievements
-
-- **First Class Honours Graduate**, Moi University — 2024  
-- Led engineering team from MVP to production at Rent Hub  
-- Increased deployment efficiency by 40% through CI/CD automation  
-
----
-
-## 🔧 Professional Development
-
-- **Google Developer Student Clubs (GDSC)** — Backend Lead (2022–2023)  
-- **Coursera:** Advanced Full-Stack Web Development (React + Node.js + TypeScript)  
-- Exploring **AI integration (Azure AI, OpenAI)** and **micro-frontend architectures**
+* 5+ years of professional software engineering experience.
+* Built and maintained production systems used across web and mobile platforms.
+* Experience spanning fintech, logistics, AI-enabled SaaS, and cloud-native applications.
+* Led engineering initiatives from MVP to production deployment.
+* Strong background in TypeScript, Node.js, APIs, and distributed systems.
+* Passionate about software architecture, developer productivity, and AI-assisted engineering.
 
 ---
 
 ## 💬 Interests
 
-System design • Distributed architecture • AI-powered developer tools •  
-Performance engineering • Mentorship • Product scalability
-
----
+System Design • Backend Engineering • Distributed Systems • AI Engineering • Cloud Infrastructure • Product Development • Developer Tooling
